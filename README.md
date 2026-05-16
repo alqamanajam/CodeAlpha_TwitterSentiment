@@ -1,7 +1,7 @@
 
 # Twitter Sentiment Analysis 🐦
 
-## CodeAlpha Data Science Internship
+## CodeAlpha Data Analytics Internship
 
 ### Project Overview
 Analyzed **162,000+ tweets** to classify public sentiment as Positive, Negative, or Neutral using Python.
@@ -59,5 +59,5 @@ pandas | matplotlib | seaborn | textblob
 
 ### Author
 **Alqama Najam**
-Data Science Intern @ CodeAlpha
+Data Analytics Intern @ CodeAlpha
 [www.linkedin.com/in/alqama-najam-16864a314]
